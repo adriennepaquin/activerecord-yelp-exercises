@@ -16,6 +16,7 @@ We'll be creating the following models:
 -	Tag
 
 **Migrations**
+DONE
 
 - Restaurant
 	- name
@@ -31,11 +32,11 @@ We'll be creating the following models:
 
 **Validations**
 
-- Restaurants need a name
-- Dishes need a name and a restaurant
+- Restaurants need a name DONE
+- Dishes need a name and a restaurant DONE
 - Tags need a name 3 characters or longer
 - Tag names can only be one word or two words, not more
-- Dishes can only have one of any particular tag
+- Dishes can only have one of any particular tag DONE
 
 **Seeds**
 
