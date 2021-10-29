@@ -34,7 +34,7 @@ DONE
 
 - Restaurants need a name DONE
 - Dishes need a name and a restaurant DONE
-- Tags need a name 3 characters or longer
+- Tags need a name 3 characters or longer DONE
 - Tag names can only be one word or two words, not more
 - Dishes can only have one of any particular tag DONE
 
